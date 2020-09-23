@@ -1,9 +1,9 @@
 body {
-    color: orange;
-    background-color: cyan;
+    color: yellow;
+    background-color: rgb(76, 0, 255);
     font-family: 'Ranchers', cursive;
 }
 
 strong {
-    color: red;
+    color: rgb(255, 0, 221);
 }
