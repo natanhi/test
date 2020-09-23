@@ -3,4 +3,7 @@ body {
     background-color: cyan;
     font-family: 'Ranchers', cursive;
 }
-strong {color: red;}
+
+strong {
+    color: red;
+}
