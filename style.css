@@ -9,7 +9,7 @@ strong {
 }
 
 div {
-    background-color: orange;
+    background-color: rgb(89, 245, 75);
     height: 20px;
     border: 3px solid cyan;
 }
