@@ -7,7 +7,9 @@ body {
 strong {
     color: rgb(255, 0, 221);
 }
+
 div {
     background-color: red;
     height: 100px;
+    border: 3px solid cyan;
 }
